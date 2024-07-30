@@ -6,8 +6,8 @@ import DropMenu from "./DropMenu";
 
 const Header = () => {
     return (
-        <header className="sticky top-0 z-50 w-full h-[80px] bg-white
-        border-b border-b-gray-300 flex items-center max-md:px-2">
+        <header className="fixed top-0 z-50 w-full h-[80px] bg-blue-950
+        border-b border-b-blue-950 flex items-center max-md:px-2 opacity-90">
             <GridContainer className="flex items-center justify-between">
                 {/* <div>
                     <DropMenu />
@@ -18,7 +18,7 @@ const Header = () => {
                 <div className="max-md:w-[40px]">
                     <a href="/">
                         <Image
-                            src='/Logo.png'
+                            src='/logo-branca.png'
                             width={60}
                             height={60}
                             alt="logo R3"

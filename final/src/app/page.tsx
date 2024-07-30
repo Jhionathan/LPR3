@@ -14,8 +14,8 @@ export default function Home() {
       <SectionHero />
       <Second />
       <SectionTree />
-      <SectionFour />
       <ProductCard />
+      <SectionFour />
       {/* <Footer /> */}
     </>
   );

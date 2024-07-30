@@ -9,21 +9,31 @@ const SectionTree = () => {
             </div>
             <div className="flex items-center min-h-screen justify-center">
                 <div className="flex flex-col w-1/2 text-white max-md:w-10/12">
-                    <h2 className="pb-6 font-bold text-5xl max-md:text-3xl" data-aos="fade-right">
-                        CONTRATO DE FORNECIMENTO <br />
-                        DE SUPRIMENTOS
+                    <h2 className="pb-6 font-normal text-2xl  max-md:text-3xl" data-aos="fade-right">
+                        NOSSO DNA É EVIDENTE:<br />
+                        <span className="font-bold text-4xl text-green-text">LOGÍSTICA</span>
                     </h2>
-                    <p className="pb-2 text-sm max-md:text-xs" data-aos="fade-left" >
-                        A R-3 Suprimentos vai desenvolver uma proposta customizada pra sua empresa, que racionalize a gestão de indiretos.
+                    <p className="pb-2 text-sm max-md:text-xs leading-relaxed" data-aos="fade-left" >
+                        
+                        Nossa infraestrutura inclui um espaço de armazenamento superior a 2.000 m2, uma loja
+                        fisica em Coiânia (matriz) e uma filial em Rio Verde, alem de oferecer a possibilidade de
+                        PAMENTOS . EMBALAdEENS
+                        armazenamento de estoque para nossos clientes. Contamos com um portfólio de mais de
+                        2.100 produtos, todos disponíveis em nosso site e e-commerce.
+                        OMO
+
+                        Omfort
+
+                        TORK
                     </p>
-                    <p className="pb-2 text-sm max-md:text-xs" data-aos="fade-left" data-aos-delay="500">
+                    {/* <p className="pb-2 text-sm max-md:text-xs" data-aos="fade-left" data-aos-delay="500">
                         Somos especializados no fornecimento de Suprimentos e atuamos em todo Brasil.
                     </p>
                     <p className="pb-2 text-sm max-md:text-xs" data-aos="fade-left" data-aos-delay="700">
                         Faça o seu contato agora mesmo, um profissional de nosso time comercial vai te atender prontamente.
-                    </p>
+                    </p> */}
                     <div className="flex items-center justify-center" data-aos="fade-up" data-aos-delay="500">
-                        <Button className=" bg-white text-black mt-16">SOLICITAR CONTATO</Button>
+                        <Button className=" bg-green-text text-white mt-16">SOLICITAR CONTATO</Button>
                     </div>
                 </div>
             </div>

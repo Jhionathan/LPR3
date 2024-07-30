@@ -4,17 +4,18 @@
 import Link from "next/link";
 import React from "react";
 
-import {  PiPhoneLight, PiMailboxLight } from "react-icons/pi";
+import {  PiPhoneLight, PiMailboxLight, PiWhatsappLogoLight } from "react-icons/pi";
 
 
 const SocialsFooter = () => {
     return (
         <div className="flex gap-2 mr-4 items-center max-md:hidden">
             <div>
-                < PiPhoneLight className="w-7 h-7 text-white" />
+                < PiPhoneLight className="w-4 h-4 text-white" />
+                <PiWhatsappLogoLight className="w-4 h-4 text-white" />
             </div>
             <div className="flex flex-col text-white">
-                <small className="text-xs font-normal">Dúvidas</small>
+                <small className="text-xs font-normal">Fale Conosco</small>
                 <span className="text-xs font-semibold"> (62) 3946-2100</span>
             </div>
             <div className="pl-2">

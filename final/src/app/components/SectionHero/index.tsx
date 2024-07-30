@@ -4,7 +4,7 @@ import { ImagesSliderDemo } from "./imageSliderDemo";
 
 const SectionHero = () => {
     return (
-        <section>
+        <section className="bg-[url('/img-7.jpg')] bg-cover">
             <ImagesSliderDemo />
         </section>
     )

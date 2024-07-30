@@ -30,7 +30,7 @@ const Menu = () => {
             <NavigationMenu className="">
                 <NavigationMenuList>
                     <NavigationMenuItem>
-                        <NavigationMenuTrigger className="text-xs max-md:text-[8px]">A R3 Suprimentos</NavigationMenuTrigger>
+                        <NavigationMenuTrigger className="text-xs max-md:text-[8px] text-white">A R3 Suprimentos</NavigationMenuTrigger>
                         <NavigationMenuContent>
                             <ul className="grid gap-2 p-2 md:w-[400px] lg:w-[500px] lg:grid-cols-[.75fr_1fr]">
                                 <li className="row-span-3">
@@ -56,7 +56,7 @@ const Menu = () => {
                         </NavigationMenuContent>
                     </NavigationMenuItem>
                     <NavigationMenuItem>
-                        <NavigationMenuTrigger className="text-xs max-md:text-[8px]">E-commerce</NavigationMenuTrigger>
+                        <NavigationMenuTrigger className="text-xs max-md:text-[8px] text-white">E-commerce</NavigationMenuTrigger>
                         <NavigationMenuContent>
                             <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-2 lg:w-[600px] ">
                                 {componentsPME.map((component) => (

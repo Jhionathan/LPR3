@@ -22,6 +22,9 @@ const config = {
         'container': '77.5rem'
       },
       colors: {
+        'blue-950': '#283D75',
+        'green-text': '#B0EF3F',
+        'blue-text': '#1AA1DB',
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",

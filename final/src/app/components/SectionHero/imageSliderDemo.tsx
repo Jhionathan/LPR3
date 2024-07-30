@@ -5,22 +5,22 @@ import { ImagesSlider } from "./images-slider";
 
 
 export function ImagesSliderDemo() {
-    const images = [
-        "/img-4.png",
-        "/frota.jpg",
-        "/img-3.jpg",
-    ];
+    // const images = [
+    //     "/img-4.png",
+    //     "/img-7.jpg",
+    //     "/img-3.jpg",
+    // ];
 
     const texts = [
         "A R3 Suprimentos",
-        "Fornece",
-        "O essencial para a sua empresa fazer o que faz de melhor"
+        
+        "Fornece o essencial para a sua empresa fazer o que faz de melhor"
     ]
 
     return (
         <div>
 
-            <ImagesSlider className="h-[100vh]" images={images} texts={texts}>
+            <ImagesSlider className="h-[100vh]" strings={texts}>
                 <motion.div
                     initial={{
                         opacity: 0,
