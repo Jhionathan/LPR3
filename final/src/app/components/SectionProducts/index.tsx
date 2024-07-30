@@ -19,79 +19,82 @@ const ProductCard = () => {
             </div>
             <div className=" mt-3 mb-12 grid grid-cols-5 grid-rows-5  max-md:grid-cols-2 gap-4">
                 <Products
-                    url="/Flamboyant.png"
+                    url="/MARCAS/karcher1.png"
                 />
                 <Products
-                    url="/Aquarius.png"
+                    url="/MARCAS/rubber1.png"
                 />
                 <Products
-                    url="/HEINZ.png"
+                    url="/MARCAS/spartan1.png"
                 />
                 <Products
-                    url="/itambé.png"
+                    url="/MARCAS/chamex1.png"
                 />
                 <Products
-                    url="/Rioquente.png"
+                    url="/MARCAS/3m1.png"
                 />
                 <Products
-                    url="/syngenta.png"
+                    url="/MARCAS/3cor1.png"
+                />
+
+                <Products
+                    url="/MARCAS/ecomaster1.png"
                 />
                 <Products
-                    url="/tatico.png"
+                    url="/MARCAS/freeco1.png"
                 />
                 <Products
-                    url="/Terral.png"
+                    url="/MARCAS/omo1.png"
                 />
                 <Products
-                    url="/Unimed.png"
+                    url="/MARCAS/bralimpia1.png"
+                />
+
+                <Products
+                    url="/MARCAS/TORK1.png"
                 />
                 <Products
-                    url="/Saccaria.png"
+                    url="/MARCAS/zupp1.png"
                 />
                 <Products
-                    url="/proBrazilian.png"
+                    url="/MARCAS/start1.png"
                 />
                 <Products
-                    url="/n23.png"
+                    url="/MARCAS/cif1.png"
                 />
                 <Products
-                    url="/Unimed.png"
+                    url="/MARCAS/confort1.png"
+                />
+
+                <Products
+                    url="/MARCAS/geiovanna1.png"
                 />
                 <Products
-                    url="/Saccaria.png"
+                    url="/MARCAS/sacae1.png"
                 />
                 <Products
-                    url="/proBrazilian.png"
+                    url="/MARCAS/tramontina1.png"
                 />
                 <Products
-                    url="/n23.png"
+                    url="/MARCAS/vabene1.png"
                 />
                 <Products
-                    url="/Unimed.png"
+                    url="/MARCAS/volk1.png"
                 />
                 <Products
-                    url="/Saccaria.png"
+                    url="/MARCAS/enshuga1.png"
                 />
                 <Products
-                    url="/proBrazilian.png"
+                    url="/MARCAS/straw1.png"
                 />
                 <Products
-                    url="/n23.png"
-                />
-                                <Products
-                    url="/Unimed.png"
+                    url="/MARCAS/sek1.png"
                 />
                 <Products
-                    url="/Saccaria.png"
+                    url="/MARCAS/compactor1.png"
                 />
                 <Products
-                    url="/proBrazilian.png"
-                />
-                <Products
-                    url="/n23.png"
-                />
-                <Products
-                    url="/n23.png"
+                    url="/MARCAS/duracel1.png"
                 />
             </div>
         </section>

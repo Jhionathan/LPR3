@@ -9,9 +9,6 @@ const Header = () => {
         <header className="fixed top-0 z-50 w-full h-[80px] bg-blue-950
         border-b border-b-blue-950 flex items-center max-md:px-2 opacity-90" data-aos="fade-down">
             <GridContainer className="flex items-center justify-between">
-                {/* <div>
-                    <DropMenu />
-                </div> */}
                 <div>
                     <Menu />
                 </div>
