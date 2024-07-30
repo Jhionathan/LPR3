@@ -12,9 +12,8 @@ export function ImagesSliderDemo() {
     // ];
 
     const texts = [
-        "A R3 Suprimentos",
-        
-        "Fornece o essencial para a sua empresa fazer o que faz de melhor"
+       
+        "A R3 Suprimentos fornece o essencial para a sua empresa fazer o que faz de melhor"
     ]
 
     return (

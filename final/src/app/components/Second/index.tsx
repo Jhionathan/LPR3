@@ -16,18 +16,19 @@ const Second = () => {
                          produtos para lavanderia, materiais de escritório, embalagens, descartáveis, EPIs, itens para Copa, além de outros.
                     </p>
                     <div className="flex justify-between gap-10 my-6">
-                        <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="300"><img src="/icon-1.png" alt="" className="w-20" /></div>
+                        {/* <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="300"><img src="/icon-1.png" alt="" className="w-20" /></div>
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="500"><img src="/icon-6.png" alt="" className="w-20" /></div>
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="700"><img src="/icon-3.png" alt="" className="w-20" /></div>
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="900"><img src="/icon-4.png" alt="" className="w-20" /></div>
-                        <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="900"><img src="/icon-5.png" alt="" className="w-20" /></div>
+                        <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="900"><img src="/icon-5.png" alt="" className="w-20" /></div> */}
 
-                        {/* <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="300"><img src="/DESC.png" alt="" className="w-14 h-14 bg-cover" /></div>
+                        <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="300"><img src="/DESC.png" alt="" className="w-14 h-14 bg-cover" /></div>
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="500"><img src="/EMBALAGEM.png" alt="" className="w-14 h-14 bg-cover" /></div>
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="700"><img src="/EQUIP.png" alt="" className="w-14 h-14 bg-cover" /></div>
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="900"><img src="/ESCRITORIO.png" alt="" className="w-14 h-14 bg-cover" /></div>
-                        <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="900"><img src="/EPI.png" alt="" className="w-14 h-14 bg-cover" /></div> */}
-{/* 
+                        <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="900"><img src="/EPI.png" alt="" className="w-14 h-14 bg-cover" /></div>
+
+{/*                         
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="300"><img src="/DESC1.png" alt="" className="w-14 h-14 bg-cover" /></div>
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="500"><img src="/EMBALAGEM1.png" alt="" className="w-14 h-14 bg-cover" /></div>
                         <div className="flex flex-col items-center" data-aos="fade-up" data-aos-delay="700"><img src="/EQUIP1.png" alt="" className="w-14 h-14 bg-cover" /></div>
