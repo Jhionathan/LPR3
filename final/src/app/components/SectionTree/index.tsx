@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import Background from "./Background";
+import Link from "next/link";
 
 const SectionTree = () => {
     return (
@@ -33,7 +34,8 @@ const SectionTree = () => {
                         Faça o seu contato agora mesmo, um profissional de nosso time comercial vai te atender prontamente.
                     </p> */}
                     <div className="flex items-center justify-center" data-aos="fade-up" data-aos-delay="500">
-                        <Button className=" bg-green-text text-white mt-16">SOLICITAR CONTATO</Button>
+                        <Link href="/contato"><Button className=" bg-green-text text-white mt-16">SOLICITAR CONTATO</Button></Link>
+                        
                     </div>
                 </div>
             </div>

@@ -24,7 +24,7 @@ const SocialsFooter = () => {
                 
             </div>
             <div>
-                <Link href="/contact"><small className="text-[10px] text-slate-400 hover:opacity-50">CONTATO</small></Link>
+                <Link href="/contato"><small className="text-[10px] text-slate-400 hover:opacity-50">CONTATO</small></Link>
             </div>
         </div>
     )

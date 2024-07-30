@@ -41,17 +41,17 @@ const Menu = () => {
                                             <div className="mb-2 mt-4 text-lg font-medium">                                                
                                                 <Link href="/about" className="hover:underline">Quem somos?</Link>
                                             </div>
-                                            <p className="text-sm leading-tight text-muted-foreground">
+                                            {/* <p className="text-sm leading-tight text-muted-foreground">
                                                 A R3 Suprimentos Corporativos, é uma empresa goiana
-                                            </p>
+                                            </p> */}
                                         </a>
                                     </NavigationMenuLink>
                                 </li>
                                 <ListItem href="/docs" title="Clientes"></ListItem>
                                 <ListItem href="/linhaProdutos" title="Categorias de Produtos"></ListItem>
-                                <ListItem href="/docs" title="Seja nosso Fornecedor"></ListItem>
-                                <ListItem href="/docs" title="Faça parte da nossa equipe"></ListItem>
-                                <ListItem href="/docs" title="Canais de Contato"></ListItem>
+                                <ListItem href="https://www.r3suprimentos.com.br/seja-um-fornecedor" target="_blank" title="Seja nosso Fornecedor"></ListItem>
+                                <ListItem href="https://vagasr3.rhgestor.com.br/" target="_blank" title="Faça parte da nossa equipe"></ListItem>
+                                <ListItem href="/contato" title="Canais de Contato"></ListItem>
                             </ul>
                         </NavigationMenuContent>
                     </NavigationMenuItem>
