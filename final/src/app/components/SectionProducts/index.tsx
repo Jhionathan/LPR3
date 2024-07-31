@@ -96,6 +96,21 @@ const ProductCard = () => {
                 <Products
                     url="/MARCAS/duracel1.png"
                 />
+                                {/* <Products
+                    url="/MARCAS/enshuga1.png"
+                />
+                <Products
+                    url="/MARCAS/straw1.png"
+                />
+                <Products
+                    url="/MARCAS/sek1.png"
+                />
+                <Products
+                    url="/MARCAS/compactor1.png"
+                />
+                <Products
+                    url="/MARCAS/duracel1.png"
+                /> */}
             </div>
         </section>
     )

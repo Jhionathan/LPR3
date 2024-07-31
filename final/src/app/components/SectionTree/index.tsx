@@ -17,15 +17,8 @@ const SectionTree = () => {
                     <p className="pb-2 text-sm max-md:text-xs leading-relaxed" data-aos="fade-left" >
                         
                         Nossa infraestrutura inclui um espaço de armazenamento superior a 2.000 m2, uma loja
-                        fisica em Coiânia (matriz) e uma filial em Rio Verde, alem de oferecer a possibilidade de
-                        PAMENTOS . EMBALAdEENS
-                        armazenamento de estoque para nossos clientes. Contamos com um portfólio de mais de
-                        2.100 produtos, todos disponíveis em nosso site e e-commerce.
-                        OMO
-
-                        Omfort
-
-                        TORK
+                        fisica em Goiânia (matriz) e uma filial em Rio Verde, 
+                        Contamos com um portfólio de mais de 1500 produtos, todos disponíveis em nosso site e e-commerce.
                     </p>
                     {/* <p className="pb-2 text-sm max-md:text-xs" data-aos="fade-left" data-aos-delay="500">
                         Somos especializados no fornecimento de Suprimentos e atuamos em todo Brasil.
