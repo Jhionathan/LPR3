@@ -3,7 +3,7 @@
 
 const Background = () => {
     return (
-        <div className="absolute -z-50 bg-cover min-h-screen bg-[url('/img-7.jpg')] 
+        <div className="absolute -z-50 bg-cover min-h-screen bg-[url('/backg4.png')] 
         flex items-center justify-center w-full brightness-50"></div>
     )
 }

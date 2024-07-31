@@ -5,7 +5,6 @@ import Header from "../components/Header";
 import Logistc from "./logistic";
 
 
-
 const About = () => {
     return (
         <>

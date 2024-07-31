@@ -14,7 +14,7 @@ const Socials = () => {
             <a href="https://www.instagram.com/r3suprimentos/" target="_blank" className="border border-white rounded-full p-1 hover:bg-slate-700"><PiInstagramLogoLight className="w-6 h-6 text-white"/></a>
             <a href="https://www.youtube.com/channel/UCGLoQx8Q6vRO5p9TDo83tdw" target="_blank" className="border border-white rounded-full p-1 hover:bg-slate-700"><PiYoutubeLogoLight className="w-6 h-6 text-white"/></a>    
             
-            <a href="https://www.r3suprimentos.com.br/" className="pl-4 text-white" target="_blank"><Button variant={"outline"}>Acesse a R3</Button></a>
+            <a href="https://www.r3suprimentos.com.br/" className="pl-4 text-white" target="_blank"><Button variant={"outline"}>ACESSE A R3</Button></a>
         </div>
     )
 }

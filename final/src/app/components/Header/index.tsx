@@ -15,7 +15,7 @@ const Header = () => {
                 <div className="max-md:w-[40px]">
                     <a href="/">
                         <Image
-                            src='/logo-branca.png'
+                            src='/logo-color.png'
                             width={60}
                             height={60}
                             alt="logo R3"
